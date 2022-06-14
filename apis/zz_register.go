@@ -22,8 +22,8 @@ package apis
 import (
 	"k8s.io/apimachinery/pkg/runtime"
 
-	v1alpha1 "github.com/crossplane-contrib/provider-jet-openstack/apis/null/v1alpha1"
-	v1alpha1apis "github.com/crossplane-contrib/provider-jet-openstack/apis/v1alpha1"
+	v1alpha1 "github.com/jerem0808/provider-jet-openstack/apis/null/v1alpha1"
+	v1alpha1apis "github.com/jerem0808/provider-jet-openstack/apis/v1alpha1"
 )
 
 func init() {
